@@ -1,4 +1,4 @@
-# Hompage del modulo di Programmazione Web
+# Homepage del modulo di Programmazione Web
 ## Istruzioni
 * Clicca su **Code** e poi su codespace per aprire la lista di codespace disponibili.
 * A questo punto apri webbo bello cliccandoci sopra

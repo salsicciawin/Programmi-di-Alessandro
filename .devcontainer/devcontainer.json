@@ -31,7 +31,9 @@
                 "george-alisson.html-preview-vscode",
 				"bmewburn.vscode-intelephense-client",
 				"xdebug.php-pack",
-				"xdebug.php-debug"
+				"xdebug.php-debug",
+				"Zignd.html-css-class-completion",
+				"ecmel.vscode-html-css"
             ]
         }
     }

@@ -77,11 +77,11 @@ function getDirContents($dir, &$results = array(), $bpath = "")
 
     .blocco-link a {
         font-size: 20px;
-    }
+    } 
 
     @media screen and (max-width: 700px) {
         .blocco-link {
             width: 100%;
-        }
+        } 
     }
 </style>

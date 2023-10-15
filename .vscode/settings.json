@@ -4,8 +4,6 @@
 	"editor.linkedEditing": true,
 	"html.autoClosingTags": false,
 	"html.suggest.html5": true,
-	// Configures if the built-in HTML language support validates embedded scripts.
 	"html.validate.scripts": true,
-	// Configures if the built-in HTML language support validates embedded styles.
 	"html.validate.styles": true
 }

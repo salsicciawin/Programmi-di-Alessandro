@@ -29,7 +29,7 @@ function getDirContents($dir, &$results = array(), $bpath = "")
         <h1>Teoria offerta dal prof Longhin</h1>
         <?php
         foreach (getDirContents(__DIR__ . '/teoria') as $folder) {
-            echo "<a href='$folder'> $folder </a> <br>";
+            echo "<a href='/teoria$folder'> $folder </a> <br>";
         }
 
         ?>
@@ -40,7 +40,7 @@ function getDirContents($dir, &$results = array(), $bpath = "")
         <h1>Esercizi fatti da Me</h1>
         <?php
         foreach (getDirContents(__DIR__ . '/esercizi') as $folder) {
-            echo "<a href='$folder'> $folder </a> <br>";
+            echo "<a href='/esercizi$folder'> $folder </a> <br>";
         }
 
         ?>
